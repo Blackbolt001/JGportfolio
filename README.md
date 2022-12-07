@@ -1,2 +1,2 @@
-# Reactsite
+# JGportfolio
 Joseph Gossett Porfolio
