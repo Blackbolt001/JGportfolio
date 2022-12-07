@@ -37,8 +37,8 @@ let resumeData = {
         "Achievements":" Seafood HACCP(FDA certification)"
       },
     ],
-    "skillsDescription":"Your skills here",
-    "skills":[
+    "skillsDescription":"Things than make me special",
+    "Traits":[
       {
         "skillname":"Inovation"
       },
