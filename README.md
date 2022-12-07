@@ -1,2 +1,2 @@
 # Reactsite
-Ecommerce Portfolio
+Joseph Gossett Porfolio
