@@ -17,7 +17,7 @@ let resumeData = {
       ],
     "aboutme":"Dear Reader I have spent two decades of life working, raising a family, and just trying to give more than I get",
     "address":"Covington,GA",
-    "website":"theForesthome.com",
+    "website":"https://blackbolt001.github.io/JGportfolio/",
     "education":[
       {
         "UniversityName":"Georgia Tech",
@@ -32,8 +32,6 @@ let resumeData = {
         "CompanyName":"Publix Supermarkets",
         "specialization":"Corporate QA Food Safety Specialist, Distribution and Manufacturing Leadership, Retail - 13 years",
         "specialistazion":" Distribution, Manufacturing, Retail, Food Safety/ Federal Regulations",
-        "MonthOfLeaving":"Dec",
-        "YearOfLeaving":"2021",
         "Achievements":" Seafood HACCP(FDA certification)"
       },
     ],
