@@ -7,7 +7,7 @@ export default class ContactUs extends Component {
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-          Reach out 
+         Say hi! 
               </p>
             </div>
           </div>
