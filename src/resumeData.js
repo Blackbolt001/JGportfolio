@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"profilepic.png",
+    "imagebaseurl":"profilepic.jpg",
     "name": "Joseph Gossett",
     "role": "Software Development",
     "linkedinId":"Joseph-Gossett2022",
@@ -15,7 +15,7 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Dear Reader I have spent two decades of life working, raising a family, and just trying to give more than I get",
+    "aboutme":"Welcome to my portfolio, I recently learned my love for not just coding but seeing into a world in a whole new way that I never thought was imaginable. My goal is to create offerings for top end full stack websites and applications to any and all local businesses in my community. Eventually growing this movement with other new tech graduates we can share our love for technology with our communities and our familes",
     "address":"Covington,GA",
     "website":"https://blackbolt001.github.io/JGportfolio/",
     "education":[
@@ -31,27 +31,15 @@ let resumeData = {
       {
         "CompanyName":"Publix Supermarkets",
         "specialization":"Corporate QA Food Safety Specialist, Distribution and Manufacturing Leadership, Retail - 13 years",
-        "specialistazion":" Distribution, Manufacturing, Retail, Food Safety/ Federal Regulations",
-        "Achievements":" Seafood HACCP(FDA certification)"
+        "specializion":" Distribution, Manufacturing, Retail, Food Safety/ Federal Regulations",
+        "Achievements":" Practitioner status PCQI(FDA recognized), Seafood HACCP(FDA recognized), Created first Organic ripening program in Publix history (2+million$), monitored Food Safety plans for 2 Distribution and Manufacturing plants totaling over 2 million square feet for 4 years."
       },
-    ],
-    "skillsDescription":"Things than make me special",
-    "Traits":[
-      {
-        "skillname":"Inovation"
-      },
-      {
-        "skillname":"Determination"
-      },
-      {
-        "skillname":"React "
-      }
     ],
     "portfolio":[
       {
         "name":"Website",
         "description":"React.js web page",
-        "imgurl":"images/portfolio/profilepic.png"
+        "imgurl":"images/profilepic.jpg"
       }
     ],
     "testimonials":[

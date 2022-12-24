@@ -8,13 +8,13 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+               <img className="profile-pic"  src="images/profilepic.png" alt="" />
 
             </div>
 
             <div className="nine columns main-col">
 
-               <h2>Reasons I'm Awesome</h2>
+               <h2>Hello there, you can call me Joe</h2>
                <p>
                {
                  resumeData.aboutme
