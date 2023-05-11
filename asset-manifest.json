@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/JGportfolio/static/css/main.4152c3d3.css",
-    "main.js": "/JGportfolio/static/js/main.fea9c21c.js",
+    "main.js": "/JGportfolio/static/js/main.5d0bfcef.js",
+    "static/media/ComicShopBannerPage.png": "/JGportfolio/static/media/ComicShopBannerPage.ad3d763b1d7ab76a957f.png",
     "static/media/projectonemainpage.png": "/JGportfolio/static/media/projectonemainpage.0be29090eaf3a6463f6f.png",
     "static/media/GeorgiaGooseDesignsPage.png": "/JGportfolio/static/media/GeorgiaGooseDesignsPage.5272d04e001e91312b4d.png",
     "static/media/projectoneshopping.png": "/JGportfolio/static/media/projectoneshopping.b52d9c64c135fffb41ba.png",
     "index.html": "/JGportfolio/index.html",
     "main.4152c3d3.css.map": "/JGportfolio/static/css/main.4152c3d3.css.map",
-    "main.fea9c21c.js.map": "/JGportfolio/static/js/main.fea9c21c.js.map"
+    "main.5d0bfcef.js.map": "/JGportfolio/static/js/main.5d0bfcef.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.fea9c21c.js"
+    "static/js/main.5d0bfcef.js"
   ]
 }
