@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.4152c3d3.css",
-    "main.js": "/static/js/main.d61e50e4.js",
+    "main.js": "/static/js/main.7f489a03.js",
+    "static/media/lenaBooks.png": "/static/media/lenaBooks.eb72b8ae114b6d4a9f33.png",
     "static/media/ComicShopBannerPage.png": "/static/media/ComicShopBannerPage.ad3d763b1d7ab76a957f.png",
     "static/media/projectonemainpage.png": "/static/media/projectonemainpage.0be29090eaf3a6463f6f.png",
     "static/media/GeorgiaGooseDesignsPage.png": "/static/media/GeorgiaGooseDesignsPage.5272d04e001e91312b4d.png",
     "static/media/projectoneshopping.png": "/static/media/projectoneshopping.b52d9c64c135fffb41ba.png",
     "index.html": "/index.html",
     "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
-    "main.d61e50e4.js.map": "/static/js/main.d61e50e4.js.map"
+    "main.7f489a03.js.map": "/static/js/main.7f489a03.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.d61e50e4.js"
+    "static/js/main.7f489a03.js"
   ]
 }
