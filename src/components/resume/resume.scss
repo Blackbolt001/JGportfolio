@@ -1,0 +1,81 @@
+.Projects{ 
+    height: 100%;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    }
+.h1{
+    color:yellow;
+}
+    .Ecommerce{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 40%;
+        margin: 5px;
+        background-color: rgba(79, 100, 70, 0.493);
+        border-radius: 10px;
+        &:hover{
+            opacity: .3;
+        }
+    }
+    .Turtle{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 40%;
+        margin:5px;
+        background-color: rgba(79, 100, 70, 0.493);
+        border-radius: 10px;
+        &:hover{
+            opacity: .3;
+        }
+    }
+    .Goose{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 40%;
+        margin:5px;
+        background-color: rgba(79, 100, 70, 0.493);
+        border-radius: 10px;
+        &:hover{
+            opacity: .3;
+        }
+    }
+    .Daves{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 40%;
+        margin:5px;
+        background-color: rgba(79, 100, 70, 0.493);
+        border-radius: 10px;
+        &:hover{
+            opacity: .3;
+        }
+    }
+    .Lena{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        width: 40%;
+        margin:5px;
+        background-color: rgba(79, 100, 70, 0.493);
+        border-radius: 10px;
+        &:hover{
+            opacity: .5;
+            
+        }
+    }

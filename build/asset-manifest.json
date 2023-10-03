@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/JGportfolio/static/css/main.4152c3d3.css",
-    "main.js": "/JGportfolio/static/js/main.de7b6769.js",
-    "index.html": "/JGportfolio/index.html",
-    "main.4152c3d3.css.map": "/JGportfolio/static/css/main.4152c3d3.css.map",
-    "main.de7b6769.js.map": "/JGportfolio/static/js/main.de7b6769.js.map"
+    "main.css": "/static/css/main.4152c3d3.css",
+    "main.js": "/static/js/main.74c5c665.js",
+    "static/media/lenaBooks.png": "/static/media/lenaBooks.eb72b8ae114b6d4a9f33.png",
+    "static/media/projectonemainpage.png": "/static/media/projectonemainpage.0be29090eaf3a6463f6f.png",
+    "static/media/GeorgiaGooseDesignsPage.png": "/static/media/GeorgiaGooseDesignsPage.5272d04e001e91312b4d.png",
+    "static/media/ComicShopBannerPage.png": "/static/media/ComicShopBannerPage.fc5f58b2930aafeb9050.png",
+    "static/media/Tmnt.png": "/static/media/Tmnt.7c920fae25c6e2cd06d5.png",
+    "index.html": "/index.html",
+    "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
+    "main.74c5c665.js.map": "/static/js/main.74c5c665.js.map"
   },
   "entrypoints": [
     "static/css/main.4152c3d3.css",
-    "static/js/main.de7b6769.js"
+    "static/js/main.74c5c665.js"
   ]
 }

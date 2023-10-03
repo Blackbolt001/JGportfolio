@@ -15,9 +15,9 @@ let resumeData = {
           "className":"fa fa-github"
         },
       ],
-    "aboutme":"Welcome to my portfolio, I recently learned my love for not just coding but seeing into a world in a whole new way that I never thought was imaginable. My goal is to create offerings for top end full stack websites and applications to any and all local businesses in my community. Eventually growing this movement with other new tech graduates we can share our love for technology with our communities and our familes",
+    "about me":"Welcome to my Webpage!, here are a few facts about me as well as some projects that I have worked on each with there own real world scenario's. My focus is providing new solutions to local companies to give them the same resources as previously thought only available to big corporations",
     "address":"Covington,GA",
-    "website":"https://blackbolt001.github.io/JGportfolio/",
+    "website":"https://josephgossett.com",
     "education":[
       {
         "UniversityName":"Georgia Tech",
@@ -29,22 +29,22 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Publix Supermarkets",
-        "specialization":"Corporate QA Food Safety Specialist, Distribution and Manufacturing Leadership, Retail - 13 years",
-        "specializion":" Distribution, Manufacturing, Retail, Food Safety/ Federal Regulations",
-        "Achievements":" Practitioner status PCQI(FDA recognized), Seafood HACCP(FDA recognized), Created first Organic ripening program in Publix history (2+million$), monitored Food Safety plans for 2 Distribution and Manufacturing plants totaling over 2 million square feet for 4 years."
+        "CompanyName":"Georgia Goose Designs",
+        "specialization":" Full Stack Web Development with a focus on Object Oriented Programming ",
+        "Areas of Expertise":"from creation to deployment including hosting and domain",
+        "Achievements":" Multiple live Websites that were created for local businesses, solving real world problems with real world solutions"
       },
     ],
     "portfolio":[
       {
-        "name":"Website",
-        "description":"React.js web page",
+        "name":"Joe",
+        "description":"JosephGossett.com",
         "imgurl":"images/profilepic.jpg"
       }
     ],
     "testimonials":[
       {
-        "description":"He is the smartest, most hansomest Man",
+        "description":"He is the smartest, most handsome Man",
         "name":"Aubree Gossett"
       },
       {

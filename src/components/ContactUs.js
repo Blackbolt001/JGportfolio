@@ -12,7 +12,7 @@ export default class ContactUs extends Component {
             </div>
           </div>
           <div className="row">
-            <aside className="eigth columns footer-widgets">
+            <aside className="eighth columns footer-widgets">
               <div className="widget">
                 <h4>Linked in : 
                   {resumeData.linkedinId}
