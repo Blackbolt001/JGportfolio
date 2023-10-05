@@ -32,6 +32,8 @@ body { background: #0f0f0f; }
 
 /* vertically center banner section */
 
+   
+
 
  section .set {
    position: absolute;
@@ -40,6 +42,7 @@ body { background: #0f0f0f; }
    top: 0;
    left: 0;
    pointer-events: none;
+   overflow: hidden;
  }
  section .set div {
    position: absolute;
