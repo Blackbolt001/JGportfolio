@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8a2bfc7d.css",
+    "main.css": "/static/css/main.686a143b.css",
     "main.js": "/static/js/main.e45a87af.js",
     "static/media/lenaBooks.png": "/static/media/lenaBooks.eb72b8ae114b6d4a9f33.png",
     "static/media/projectonemainpage.png": "/static/media/projectonemainpage.0be29090eaf3a6463f6f.png",
@@ -9,11 +9,11 @@
     "static/media/fall.jpg": "/static/media/fall.81a104b2a19437447e94.jpg",
     "static/media/Tmnt.png": "/static/media/Tmnt.7c920fae25c6e2cd06d5.png",
     "index.html": "/index.html",
-    "main.8a2bfc7d.css.map": "/static/css/main.8a2bfc7d.css.map",
+    "main.686a143b.css.map": "/static/css/main.686a143b.css.map",
     "main.e45a87af.js.map": "/static/js/main.e45a87af.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a2bfc7d.css",
+    "static/css/main.686a143b.css",
     "static/js/main.e45a87af.js"
   ]
 }
