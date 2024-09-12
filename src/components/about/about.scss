@@ -1,0 +1,57 @@
+body{
+  margin:0;
+}
+.about{
+  height: 100%;
+  width:100vw;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.videos { 
+  display: flex;
+  flex-direction: column;
+  background: url(https://wallpapercave.com/wp/wp4986072.jpg) no-repeat top center;
+  background-size: cover !important;
+	-webkit-background-size: cover !important;
+  justify-content: center;
+  object-fit: contain;
+  align-items: center;
+}
+
+
+.video1 {
+overflow: hidden;
+border-radius: 50%;
+transition: all ease-in-out 1.0s;
+&:hover{
+  border-radius: 0%;
+
+}
+}
+
+.video2 {
+  overflow: hidden;
+  border-radius: 50%;
+  transition: all ease-in-out 1.0s;
+  &:hover{
+    border-radius: 0%;
+
+
+
+
+  }
+  }
+  .video3 {
+    overflow: hidden;
+    border-radius: 50%;
+    transition: all ease-in-out 1.0s;
+      &:hover{
+      border-radius: 0%;
+
+
+    }
+    }
+    
+  
+

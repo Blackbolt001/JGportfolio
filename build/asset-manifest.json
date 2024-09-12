@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4152c3d3.css",
-    "main.js": "/static/js/main.74c5c665.js",
+    "main.css": "/static/css/main.e62bbdb5.css",
+    "main.js": "/static/js/main.f468f884.js",
     "static/media/lenaBooks.png": "/static/media/lenaBooks.eb72b8ae114b6d4a9f33.png",
-    "static/media/projectonemainpage.png": "/static/media/projectonemainpage.0be29090eaf3a6463f6f.png",
-    "static/media/GeorgiaGooseDesignsPage.png": "/static/media/GeorgiaGooseDesignsPage.5272d04e001e91312b4d.png",
+    "static/media/gooseDashboard.png": "/static/media/gooseDashboard.a222f2890169d1be29ba.png",
     "static/media/ComicShopBannerPage.png": "/static/media/ComicShopBannerPage.fc5f58b2930aafeb9050.png",
+    "static/media/winter.jpg": "/static/media/winter.f6020e391bf8168eeb1c.jpg",
+    "static/media/gooseShop.png": "/static/media/gooseShop.a1a3fd372ec7a0410f0c.png",
     "static/media/Tmnt.png": "/static/media/Tmnt.7c920fae25c6e2cd06d5.png",
     "index.html": "/index.html",
-    "main.4152c3d3.css.map": "/static/css/main.4152c3d3.css.map",
-    "main.74c5c665.js.map": "/static/js/main.74c5c665.js.map"
+    "main.e62bbdb5.css.map": "/static/css/main.e62bbdb5.css.map",
+    "main.f468f884.js.map": "/static/js/main.f468f884.js.map"
   },
   "entrypoints": [
-    "static/css/main.4152c3d3.css",
-    "static/js/main.74c5c665.js"
+    "static/css/main.e62bbdb5.css",
+    "static/js/main.f468f884.js"
   ]
 }

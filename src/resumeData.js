@@ -17,7 +17,6 @@ let resumeData = {
       ],
     "about me":"Welcome to my Webpage!, here are a few facts about me as well as some projects that I have worked on each with there own real world scenario's. My focus is providing new solutions to local companies to give them the same resources as previously thought only available to big corporations",
     "address":"Covington,GA",
-    "website":"https://josephgossett.com",
     "education":[
       {
         "UniversityName":"Georgia Tech",
